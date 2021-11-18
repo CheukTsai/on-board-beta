@@ -1,0 +1,31 @@
+.search-bar{
+    height: 40px;
+}
+
+.search{
+    width: 75%;
+    font-family: 'Josefin Slab', serif;
+    border: 0;
+    opacity: 0.8;
+}
+
+.search:hover{
+    opacity: 1;
+}
+
+.btn-search{
+    width: 25%;
+    font-family: 'Squada One', cursive;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 194, 81);
+    opacity: 0.5;
+    border: 0;
+}
+
+.btn-search:hover{
+    background: rgb(255, 211, 15);
+    color: rgb(255, 255, 255);
+}
