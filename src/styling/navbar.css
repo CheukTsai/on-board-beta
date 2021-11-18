@@ -10,17 +10,19 @@
 }
 
 .navbar-search{
-    width: 40%;
+    width: 60%;
 }
 
 .search-bar-nav{
-    height: 30px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
 }
 
 .nav-title-onboard{
     font-family: 'Plaster', cursive;
-    font-size: 2.3rem;
-    width: 30%;
+    font-size: 3rem;
+    width: 20%;
     display: flex;
     justify-content: center;
     text-decoration: none;
@@ -51,7 +53,7 @@
 }
 
 .nav-content-onboard{
-    width: 30%;
+    width: 20%;
     height: 100%;
     display: flex;
     flex-direction: row;
